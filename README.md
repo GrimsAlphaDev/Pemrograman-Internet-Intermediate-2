@@ -1,2 +1,2 @@
 Pemrograman Internet Intermediate
-Repo untuk mengumpulkan tugas Pemrograman Internet Intermediate Pert 8-14
+Repo untuk mengumpulkan tugas Pemrograman Internet Intermediate Pertemuan 8 
